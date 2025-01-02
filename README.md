@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @sharmabinaya
-- 👀 I’m interested in UI UX WEB AND MOBILE  APP DESIGNER 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-sharmabinaya/sharmabinaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+UI/UX Designer | Web Developer | AI & ML Enthusiast
+Bridging the gap between design and development, I create user-friendly interfaces and robust applications. Deeply invested in the evolution of AI and ML, exploring new ways to enhance digital experiences and solve real-world problems. Join me on this exciting tech journey! 
